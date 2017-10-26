@@ -1,0 +1,30 @@
+﻿Compilación iniciada a las 04/10/2013 17:10:01.
+Proyecto "C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Reparto_de_Ganancias\Reparto_de_Ganancias.vcxproj" en el nodo 2 (rebuild destinos).
+_PrepareForClean:
+  Se eliminará el archivo "Debug\Reparto_de_Ganancias.lastbuildstate".
+InitializeBuildStatus:
+  Se creará "Debug\Reparto_de_Ganancias.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RepartoDeGanancias.cpp
+  RepartoDeGanancias.cpp
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Reparto_de_Ganancias.exe.embed.manifest.res" Debug\Reparto_de_Ganancias_manifest.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Debug\Reparto_de_Ganancias.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Reparto_de_Ganancias.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Debug\Reparto_de_Ganancias.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Debug\Reparto_de_Ganancias.lib" /MACHINE:X86 Debug\Reparto_de_Ganancias.exe.embed.manifest.res
+  Debug\RepartoDeGanancias.obj
+Manifest:
+  Se eliminará el archivo "Debug\Reparto_de_Ganancias.exe.embed.manifest".
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Reparto_de_Ganancias.exe.embed.manifest" /manifest Debug\Reparto_de_Ganancias.exe.intermediate.manifest
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Reparto_de_Ganancias.exe.embed.manifest.res" Debug\Reparto_de_Ganancias_manifest.rc 
+LinkEmbedManifest:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Debug\Reparto_de_Ganancias.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Reparto_de_Ganancias.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Debug\Reparto_de_Ganancias.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Debug\Reparto_de_Ganancias.lib" /MACHINE:X86 Debug\Reparto_de_Ganancias.exe.embed.manifest.res
+  Debug\RepartoDeGanancias.obj
+  Reparto_de_Ganancias.vcxproj -> C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Debug\Reparto_de_Ganancias.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\Reparto_de_Ganancias.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\Reparto_de_Ganancias.lastbuildstate".
+Compilación del proyecto terminada "C:\Users\W7\Documents\Visual Studio 2010\Projects\Reparto_de_Ganancias\Reparto_de_Ganancias\Reparto_de_Ganancias.vcxproj" (rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.05

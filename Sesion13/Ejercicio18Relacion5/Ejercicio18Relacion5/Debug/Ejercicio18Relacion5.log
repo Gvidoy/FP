@@ -1,0 +1,23 @@
+﻿Compilación iniciada a las 12/01/2014 21:51:22.
+Proyecto "C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio18Relacion5\Ejercicio18Relacion5\Ejercicio18Relacion5.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\Ejercicio18Relacion5.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /Gm- /EHsc /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ejercicio18Relacion5.cpp
+  Ejercicio18Relacion5.cpp
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio18relacion5\ejercicio18relacion5\ejercicio18relacion5.cpp(113): warning C4244: 'argumento' : conversión de 'int' a 'char'; posible pérdida de datos
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio18relacion5\ejercicio18relacion5\ejercicio18relacion5.cpp(127): warning C4244: 'argumento' : conversión de 'int' a 'char'; posible pérdida de datos
+Link:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio18Relacion5\Debug\/Ejercicio18Relacion5.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Ejercicio18Relacion5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio18Relacion5\Debug\/Ejercicio18Relacion5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio18Relacion5\Debug\Ejercicio18Relacion5.lib" Debug\Ejercicio18Relacion5.obj
+  LINK : no se encontró C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio18Relacion5\Debug\/Ejercicio18Relacion5.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Ejercicio18Relacion5.vcxproj -> C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio18Relacion5\Debug\Ejercicio18Relacion5.exe
+Manifest:
+  C:\Archivos de programa\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio18Relacion5\Debug\/Ejercicio18Relacion5.exe;#1" /manifest Debug\Ejercicio18Relacion5.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\Ejercicio18Relacion5.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\Ejercicio18Relacion5.lastbuildstate".
+Compilación del proyecto terminada "C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio18Relacion5\Ejercicio18Relacion5\Ejercicio18Relacion5.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.46

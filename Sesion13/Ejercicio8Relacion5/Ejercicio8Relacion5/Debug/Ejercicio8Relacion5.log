@@ -1,0 +1,12 @@
+﻿Compilación iniciada a las 26/12/2013 21:27:51.
+Proyecto "C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio8Relacion5\Ejercicio8Relacion5\Ejercicio8Relacion5.vcxproj" en el nodo 2 (ClCompile destinos).
+ClCompile:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /Gm- /EHsc /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ejercicio8Relacion5.cpp
+  Ejercicio8Relacion5.cpp
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio8relacion5\ejercicio8relacion5\ejercicio8relacion5.cpp(212): warning C4512: 'Circunferencia' : no se pudo generar el operador de asignaciones
+          c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio8relacion5\ejercicio8relacion5\ejercicio8relacion5.cpp(104) : vea la declaración de 'Circunferencia'
+Compilación del proyecto terminada "C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\Ejercicio8Relacion5\Ejercicio8Relacion5\Ejercicio8Relacion5.vcxproj" (ClCompile destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.61

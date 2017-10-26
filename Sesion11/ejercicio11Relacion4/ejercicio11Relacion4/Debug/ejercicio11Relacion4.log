@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 05/12/2013 10:38:09.
+Proyecto "C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio11Relacion4\ejercicio11Relacion4\ejercicio11Relacion4.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\ejercicio11Relacion4.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /Gm- /EHsc /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ejercicio11Relacion4.cpp
+  ejercicio11Relacion4.cpp
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio11relacion4\ejercicio11relacion4\ejercicio11relacion4.cpp(69): warning C4018: '<' : no coinciden signed/unsigned
+Link:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio11Relacion4\Debug\/ejercicio11Relacion4.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ejercicio11Relacion4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio11Relacion4\Debug\/ejercicio11Relacion4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio11Relacion4\Debug\ejercicio11Relacion4.lib" Debug\ejercicio11Relacion4.obj
+  LINK : no se encontró C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio11Relacion4\Debug\/ejercicio11Relacion4.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  ejercicio11Relacion4.vcxproj -> C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio11Relacion4\Debug\ejercicio11Relacion4.exe
+Manifest:
+  C:\Archivos de programa\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio11Relacion4\Debug\/ejercicio11Relacion4.exe;#1" /manifest Debug\ejercicio11Relacion4.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\ejercicio11Relacion4.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\ejercicio11Relacion4.lastbuildstate".
+Compilación del proyecto terminada "C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio11Relacion4\ejercicio11Relacion4\ejercicio11Relacion4.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.88

@@ -1,0 +1,30 @@
+﻿Compilación iniciada a las 10/10/2013 19:34:13.
+Proyecto "C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\ExpresionesLogicas\ExpresionesLogicas.vcxproj" en el nodo 2 (rebuild destinos).
+_PrepareForClean:
+  Se eliminará el archivo "Debug\ExpresionesLogicas.lastbuildstate".
+InitializeBuildStatus:
+  Se creará "Debug\ExpresionesLogicas.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ExpresionesLogicas.cpp
+  ExpresionesLogicas.cpp
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ExpresionesLogicas.exe.embed.manifest.res" Debug\ExpresionesLogicas_manifest.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\Debug\ExpresionesLogicas.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ExpresionesLogicas.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\Debug\ExpresionesLogicas.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\Debug\ExpresionesLogicas.lib" /MACHINE:X86 Debug\ExpresionesLogicas.exe.embed.manifest.res
+  Debug\ExpresionesLogicas.obj
+Manifest:
+  Se eliminará el archivo "Debug\ExpresionesLogicas.exe.embed.manifest".
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ExpresionesLogicas.exe.embed.manifest" /manifest Debug\ExpresionesLogicas.exe.intermediate.manifest
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ExpresionesLogicas.exe.embed.manifest.res" Debug\ExpresionesLogicas_manifest.rc 
+LinkEmbedManifest:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\Debug\ExpresionesLogicas.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ExpresionesLogicas.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\Debug\ExpresionesLogicas.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\Debug\ExpresionesLogicas.lib" /MACHINE:X86 Debug\ExpresionesLogicas.exe.embed.manifest.res
+  Debug\ExpresionesLogicas.obj
+  ExpresionesLogicas.vcxproj -> C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\Debug\ExpresionesLogicas.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\ExpresionesLogicas.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\ExpresionesLogicas.lastbuildstate".
+Compilación del proyecto terminada "C:\Users\W7\Documents\Visual Studio 2010\Projects\ExpresionesLogicas\ExpresionesLogicas\ExpresionesLogicas.vcxproj" (rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:04.06

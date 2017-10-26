@@ -1,0 +1,27 @@
+﻿Compilación iniciada a las 09/01/2014 11:24:40.
+Proyecto "C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio15relacion5\ejercicio15relacion5\ejercicio15relacion5.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\ejercicio15relacion5.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /Gm- /EHsc /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ejercicio15relacion5.cpp
+  ejercicio15relacion5.cpp
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio15relacion5\ejercicio15relacion5\ejercicio15relacion5.cpp(215): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio15relacion5\ejercicio15relacion5\ejercicio15relacion5.cpp(219): warning C4553: '==' : el operador no tiene efecto; ¿ha pensado en '='?
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio15relacion5\ejercicio15relacion5\ejercicio15relacion5.cpp(254): warning C4129: 'P' : secuencia de escape de carácter no reconocida
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio15relacion5\ejercicio15relacion5\ejercicio15relacion5.cpp(279): warning C4244: '=' : conversión de 'int' a 'char'; posible pérdida de datos
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio15relacion5\ejercicio15relacion5\ejercicio15relacion5.cpp(242): warning C4189: 'tamano_fila_devuelta' : la variable local se ha inicializado pero no se hace referencia a ella
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio15relacion5\ejercicio15relacion5\ejercicio15relacion5.cpp(65): warning C4715: 'MiMatrizRectangularCaracteres::GetElemento' : no todas las rutas de acceso de control devuelven un valor
+Link:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio15relacion5\Debug\/ejercicio15relacion5.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ejercicio15relacion5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio15relacion5\Debug\/ejercicio15relacion5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio15relacion5\Debug\ejercicio15relacion5.lib" Debug\ejercicio15relacion5.obj
+  LINK : no se encontró C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio15relacion5\Debug\/ejercicio15relacion5.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  ejercicio15relacion5.vcxproj -> C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio15relacion5\Debug\ejercicio15relacion5.exe
+Manifest:
+  C:\Archivos de programa\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio15relacion5\Debug\/ejercicio15relacion5.exe;#1" /manifest Debug\ejercicio15relacion5.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\ejercicio15relacion5.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\ejercicio15relacion5.lastbuildstate".
+Compilación del proyecto terminada "C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2010\Projects\ejercicio15relacion5\ejercicio15relacion5\ejercicio15relacion5.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.32

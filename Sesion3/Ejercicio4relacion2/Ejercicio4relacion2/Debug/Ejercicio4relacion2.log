@@ -1,0 +1,30 @@
+﻿Compilación iniciada a las 11/10/2013 23:47:37.
+Proyecto "c:\Users\W7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Ejercicio4relacion2\Ejercicio4relacion2.vcxproj" en el nodo 2 (rebuild destinos).
+_PrepareForClean:
+  Se eliminará el archivo "Debug\Ejercicio4relacion2.lastbuildstate".
+InitializeBuildStatus:
+  Se creará "Debug\Ejercicio4relacion2.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ejercicio4relacion2.cpp
+  Ejercicio4relacion2.cpp
+ManifestResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Ejercicio4relacion2.exe.embed.manifest.res" Debug\Ejercicio4relacion2_manifest.rc 
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\w7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Debug\Ejercicio4relacion2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Ejercicio4relacion2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\w7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Debug\Ejercicio4relacion2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\w7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Debug\Ejercicio4relacion2.lib" /MACHINE:X86 Debug\Ejercicio4relacion2.exe.embed.manifest.res
+  Debug\Ejercicio4relacion2.obj
+Manifest:
+  Se eliminará el archivo "Debug\Ejercicio4relacion2.exe.embed.manifest".
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Ejercicio4relacion2.exe.embed.manifest" /manifest Debug\Ejercicio4relacion2.exe.intermediate.manifest
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Ejercicio4relacion2.exe.embed.manifest.res" Debug\Ejercicio4relacion2_manifest.rc 
+LinkEmbedManifest:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\w7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Debug\Ejercicio4relacion2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Ejercicio4relacion2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\w7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Debug\Ejercicio4relacion2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\w7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Debug\Ejercicio4relacion2.lib" /MACHINE:X86 Debug\Ejercicio4relacion2.exe.embed.manifest.res
+  Debug\Ejercicio4relacion2.obj
+  Ejercicio4relacion2.vcxproj -> c:\users\w7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Debug\Ejercicio4relacion2.exe
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\Ejercicio4relacion2.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\Ejercicio4relacion2.lastbuildstate".
+Compilación del proyecto terminada "c:\Users\W7\documents\visual studio 2010\Projects\Ejercicio4relacion2\Ejercicio4relacion2\Ejercicio4relacion2.vcxproj" (rebuild destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.14

@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 12/10/2013 22:42:02.
+Proyecto "c:\Users\W7\documents\visual studio 2010\Projects\Ejercicio5Relacion2\Ejercicio5Relacion2\Ejercicio5Relacion2.vcxproj" en el nodo 2 (ClCompile destinos).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ejercicio5Relacion2.cpp
+  Ejercicio5Relacion2.cpp
+Compilación del proyecto terminada "c:\Users\W7\documents\visual studio 2010\Projects\Ejercicio5Relacion2\Ejercicio5Relacion2\Ejercicio5Relacion2.vcxproj" (ClCompile destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.46

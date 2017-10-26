@@ -1,0 +1,13 @@
+﻿Compilación iniciada a las 12/01/2014 19:35:41.
+Proyecto "c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio17relacion5\Ejercicio17relacion5\Ejercicio17relacion5.vcxproj" en el nodo 2 (ClCompile destinos).
+ClCompile:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /Gm- /EHsc /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ejercicio17relacion5.cpp
+  Ejercicio17relacion5.cpp
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio17relacion5\ejercicio17relacion5\ejercicio17relacion5.cpp(88): warning C4189: 'dimension_original' : la variable local se ha inicializado pero no se hace referencia a ella
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio17relacion5\ejercicio17relacion5\ejercicio17relacion5.cpp(532): warning C4244: '=' : conversión de 'int' a 'char'; posible pérdida de datos
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio17relacion5\ejercicio17relacion5\ejercicio17relacion5.cpp(172): warning C4715: 'MiMatrizRectangularEnteros::GetElemento' : no todas las rutas de acceso de control devuelven un valor
+Compilación del proyecto terminada "c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio17relacion5\Ejercicio17relacion5\Ejercicio17relacion5.vcxproj" (ClCompile destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.14

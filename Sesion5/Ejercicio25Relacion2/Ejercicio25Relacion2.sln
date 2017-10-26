@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ejercicio25Relacion2", "Ejercicio25Relacion2\Ejercicio25Relacion2.vcxproj", "{DAA7D75D-4887-4A87-985B-46487BD7EB24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA7D75D-4887-4A87-985B-46487BD7EB24}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAA7D75D-4887-4A87-985B-46487BD7EB24}.Debug|Win32.Build.0 = Debug|Win32
+		{DAA7D75D-4887-4A87-985B-46487BD7EB24}.Release|Win32.ActiveCfg = Release|Win32
+		{DAA7D75D-4887-4A87-985B-46487BD7EB24}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 03/12/2013 21:55:00.
+Proyecto "c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio9STLRelacion4\Ejercicio9STLRelacion4\Ejercicio9STLRelacion4.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\Ejercicio9STLRelacion4.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /Gm- /EHsc /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ejercicio9STLRelacion4.cpp
+  Ejercicio9STLRelacion4.cpp
+c:\documents and settings\administrador\mis documentos\visual studio 2010\projects\ejercicio9stlrelacion4\ejercicio9stlrelacion4\ejercicio9stlrelacion4.cpp(12): warning C4244: '=' : conversión de 'int' a 'char'; posible pérdida de datos
+Link:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio9STLRelacion4\Debug\/Ejercicio9STLRelacion4.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Ejercicio9STLRelacion4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio9STLRelacion4\Debug\/Ejercicio9STLRelacion4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio9STLRelacion4\Debug\Ejercicio9STLRelacion4.lib" Debug\Ejercicio9STLRelacion4.obj
+  LINK : no se encontró c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio9STLRelacion4\Debug\/Ejercicio9STLRelacion4.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Ejercicio9STLRelacion4.vcxproj -> c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio9STLRelacion4\Debug\Ejercicio9STLRelacion4.exe
+Manifest:
+  C:\Archivos de programa\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio9STLRelacion4\Debug\/Ejercicio9STLRelacion4.exe;#1" /manifest Debug\Ejercicio9STLRelacion4.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\Ejercicio9STLRelacion4.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\Ejercicio9STLRelacion4.lastbuildstate".
+Compilación del proyecto terminada "c:\documents and settings\administrador\mis documentos\visual studio 2010\Projects\Ejercicio9STLRelacion4\Ejercicio9STLRelacion4\Ejercicio9STLRelacion4.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.37

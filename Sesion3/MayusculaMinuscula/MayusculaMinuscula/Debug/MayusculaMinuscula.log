@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 12/10/2013 0:12:16.
+Proyecto "Z:\GregorioVidoyFajardoSesion3\MayusculaMinuscula\MayusculaMinuscula\MayusculaMinuscula.vcxproj" en el nodo 2 (ClCompile destinos).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MayusculaMinuscula.cpp
+  MayusculaMinuscula.cpp
+Compilación del proyecto terminada "Z:\GregorioVidoyFajardoSesion3\MayusculaMinuscula\MayusculaMinuscula\MayusculaMinuscula.vcxproj" (ClCompile destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.14

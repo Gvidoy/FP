@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 04/10/2013 17:07:27.
+Proyecto "C:\Users\W7\Documents\Visual Studio 2010\Projects\Teclead I_Voltaje\Teclead I_Voltaje\Teclead I_Voltaje.vcxproj" en el nodo 2 (build destinos).
+InitializeBuildStatus:
+  Se creará "Debug\Teclead I_Voltaje.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+ClCompile:
+  Todas las salidas están actualizadas.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Teclead I_Voltaje\Debug\Teclead I_Voltaje.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Teclead I_Voltaje.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Teclead I_Voltaje\Debug\Teclead I_Voltaje.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Teclead I_Voltaje\Debug\Teclead I_Voltaje.lib" /MACHINE:X86 "Debug\Teclead I_Voltaje.obj"
+  LINK : no se encontró C:\Users\W7\Documents\Visual Studio 2010\Projects\Teclead I_Voltaje\Debug\Teclead I_Voltaje.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Teclead I_Voltaje.vcxproj -> C:\Users\W7\Documents\Visual Studio 2010\Projects\Teclead I_Voltaje\Debug\Teclead I_Voltaje.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\W7\Documents\Visual Studio 2010\Projects\Teclead I_Voltaje\Debug\Teclead I_Voltaje.exe;#1" /manifest "Debug\Teclead I_Voltaje.exe.intermediate.manifest"
+FinalizeBuildStatus:
+  Se eliminará el archivo "Debug\Teclead I_Voltaje.unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\Teclead I_Voltaje.lastbuildstate".
+Compilación del proyecto terminada "C:\Users\W7\Documents\Visual Studio 2010\Projects\Teclead I_Voltaje\Teclead I_Voltaje\Teclead I_Voltaje.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.06

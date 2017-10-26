@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 24/11/2013 13:07:54.
+Proyecto "G:\GregorioVidoyFajardosesion9\ejercicio3Relacion4\ejercicio3Relacion4\ejercicio3Relacion4.vcxproj" en el nodo 2 (ClCompile destinos).
+ClCompile:
+  C:\Archivos de programa\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W4 /WX- /Od /Oy- /Gm- /EHsc /RTCc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ejercicio3Relacion4.cpp
+  ejercicio3Relacion4.cpp
+Compilación del proyecto terminada "G:\GregorioVidoyFajardosesion9\ejercicio3Relacion4\ejercicio3Relacion4\ejercicio3Relacion4.vcxproj" (ClCompile destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.71
